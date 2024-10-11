@@ -21,7 +21,7 @@ a{
 
 #preview-card-container{
     width: 384px;
-    height: 565px;
+    height: 525px;
     background-color: hsl(0, 0%, 100%);
     border-radius: 20px;
     border: solid 1px black;
@@ -92,4 +92,7 @@ a{
     .preview-card-img img{
         width: 100%;
     }
+}
+.blog-post-avatar-container img{
+    width: 2rem;
 }
